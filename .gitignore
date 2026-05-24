@@ -8,3 +8,4 @@ venv/
 .DS_Store
 *.log
 *.tmp
+sources/for_model/
